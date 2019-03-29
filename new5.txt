@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 这是master目录（我做了一些修复工作）
 我是dev的操作
 
+=======
+这是master目录
+我添加了一些东西dev
+>>>>>>> Stashed changes
